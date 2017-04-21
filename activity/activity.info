@@ -1,0 +1,7 @@
+[Activity]
+name = gcdActivity
+service_name = org.sugarlabs.Sugargamegcd
+class = gcdActivity.gcdActivity
+icon = activity-generic
+activity_version = 1
+show_launcher = yes
